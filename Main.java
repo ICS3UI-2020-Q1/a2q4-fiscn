@@ -1,8 +1,8 @@
 import java.util.Scanner; 
 
 /**
- *
- * @author 
+ * calculates the amount the user spent and applies the disscount based on how much the user spent. It also shows how much the user saved and their total after the disscount.
+ * @author Neil Fischer 
  */
 public class Main {
 
